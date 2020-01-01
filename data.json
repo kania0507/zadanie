@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "dest": "Warszawa",
+	  "dep_time": "12:30",
+	  "via1": "Kalisz",
+	  "via2": "Łódź"
+    },{
+      "id": 2,
+      "dest": "Wrocław",
+	  "dep_time": "14:14",
+	  "via1": "Leszno",
+	  "via2": "Rawicz"
+    },{
+      "id": 3,
+      "dest": "Koszalin",
+	  "dep_time": "14:30",
+	  "via1": "Oborniki",
+	  "via2": "Piła"
+    },{
+      "id": 4,
+      "dest": "Kraków",
+	  "dep_time": "16:10",
+	  "via1": "Łódź",
+	  "via2": "Katowice"
+    }
+]
